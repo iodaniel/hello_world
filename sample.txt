@@ -1,3 +1,5 @@
 #this is a small message for test github repositoty. 
+<<<<<<< HEAD
 #Edition inside of GitHub
 # this is the example in my computer 
+
